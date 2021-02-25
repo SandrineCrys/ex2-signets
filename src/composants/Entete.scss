@@ -1,0 +1,24 @@
+.Entete{
+    background-color: red;
+    height: 3em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+
+    .logo{
+        display: flex;
+        padding-left: 1em;
+    }
+    .avatar{
+        display: flex;
+        width: 10em;
+        align-items: center;
+        padding-right: 1em;
+        justify-content: space-between;
+    }
+    img{
+        border-radius: 20px; 
+    }
+}

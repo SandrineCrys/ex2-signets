@@ -1,3 +1,4 @@
+import './Dossier.scss'
 export default function Dossier({id, titre, couleur, dateModif}) {
   return (
     <article className="Dossier">
