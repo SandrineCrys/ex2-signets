@@ -1,7 +1,31 @@
 .Dossier{
-    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
   
-}
-.couverture{
-    background-color: brown;
+    .couverture{
+        display: flex;
+        flex-direction: column;
+
+        .deplacer{
+            z-index: 3;
+            width: 3em;
+            height: 3em;
+            margin-left: 5px;
+            margin-top: 5px;
+            background-color: rgba(0, 0, 0, 0.5);
+            text-align: center;
+            border-radius: 25px;
+        }
+        img{
+            margin-top: -55px;
+        }
+    }
+    button{
+        width: 3em;
+        margin-left: 80%;
+        margin-bottom: 4%;
+        background: none;
+        border-style: none;
+        outline: none;
+    }
 }
