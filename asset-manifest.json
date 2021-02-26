@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/SandrineCrys/ex2-signets/static/css/main.2c63bf8a.chunk.css",
-    "main.js": "/SandrineCrys/ex2-signets/static/js/main.379a4ae3.chunk.js",
-    "main.js.map": "/SandrineCrys/ex2-signets/static/js/main.379a4ae3.chunk.js.map",
-    "runtime-main.js": "/SandrineCrys/ex2-signets/static/js/runtime-main.8d3a2d01.js",
-    "runtime-main.js.map": "/SandrineCrys/ex2-signets/static/js/runtime-main.8d3a2d01.js.map",
-    "static/js/2.27f60b14.chunk.js": "/SandrineCrys/ex2-signets/static/js/2.27f60b14.chunk.js",
-    "static/js/2.27f60b14.chunk.js.map": "/SandrineCrys/ex2-signets/static/js/2.27f60b14.chunk.js.map",
-    "index.html": "/SandrineCrys/ex2-signets/index.html",
-    "static/css/main.2c63bf8a.chunk.css.map": "/SandrineCrys/ex2-signets/static/css/main.2c63bf8a.chunk.css.map",
-    "static/js/2.27f60b14.chunk.js.LICENSE.txt": "/SandrineCrys/ex2-signets/static/js/2.27f60b14.chunk.js.LICENSE.txt"
+    "main.css": "/SandrineCrys/ex2-signets.git/static/css/main.2c63bf8a.chunk.css",
+    "main.js": "/SandrineCrys/ex2-signets.git/static/js/main.379a4ae3.chunk.js",
+    "main.js.map": "/SandrineCrys/ex2-signets.git/static/js/main.379a4ae3.chunk.js.map",
+    "runtime-main.js": "/SandrineCrys/ex2-signets.git/static/js/runtime-main.0c7777db.js",
+    "runtime-main.js.map": "/SandrineCrys/ex2-signets.git/static/js/runtime-main.0c7777db.js.map",
+    "static/js/2.27f60b14.chunk.js": "/SandrineCrys/ex2-signets.git/static/js/2.27f60b14.chunk.js",
+    "static/js/2.27f60b14.chunk.js.map": "/SandrineCrys/ex2-signets.git/static/js/2.27f60b14.chunk.js.map",
+    "index.html": "/SandrineCrys/ex2-signets.git/index.html",
+    "static/css/main.2c63bf8a.chunk.css.map": "/SandrineCrys/ex2-signets.git/static/css/main.2c63bf8a.chunk.css.map",
+    "static/js/2.27f60b14.chunk.js.LICENSE.txt": "/SandrineCrys/ex2-signets.git/static/js/2.27f60b14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d3a2d01.js",
+    "static/js/runtime-main.0c7777db.js",
     "static/js/2.27f60b14.chunk.js",
     "static/css/main.2c63bf8a.chunk.css",
     "static/js/main.379a4ae3.chunk.js"
